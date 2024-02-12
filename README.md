@@ -1,3 +1,4 @@
-# team-software-project-L4
+# Team-Software-Project-L4
 
-This is a sample project description
+Description:
+An Ebay-like website selling only Second hands for affordable prices or even for free, only for University Students.
